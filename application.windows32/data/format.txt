@@ -1,0 +1,4 @@
+JPG
+PNG
+TGA
+TIF
