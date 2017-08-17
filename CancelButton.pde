@@ -1,5 +1,5 @@
 /*
-Copyright 2007 Patrick McGurk
+Copyright 2017 Patrick McGurk
 This file is part of ChromatVis.
 
 ChromatVis is free software: you can redistribute it and/or modify
