@@ -1,4 +1,4 @@
-ChromatVis alpha v0.1.0
+ChromatVis alpha v0.1.1
 Default mode: alignment of two chromatograms
 Select a chromatogram file as reference and another as query (see examples folder).
 ChromatVis will align peaks between chromatograms and generate a difference profile.
@@ -15,7 +15,8 @@ Export base sequences encoded in chromatgrams and parsed by ChromatVis.
 
 Available as applications for Windows and Linux and as raw Processing files.
 
-Copyright 2007 Patrick McGurk
+Copyright 2017 Patrick McGurk
+
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
